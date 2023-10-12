@@ -1,0 +1,2 @@
+from mammal import Mammal
+
